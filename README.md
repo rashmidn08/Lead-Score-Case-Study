@@ -1,4 +1,4 @@
-Logistic Regression Modelling Steps:
+Lead Scoring Case Study (Logistic Regression Modelling):
 
 Step 1: Import necessary libraries
 Step 2: Read & understand data
